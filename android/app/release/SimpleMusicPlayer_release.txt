@@ -1,0 +1,3 @@
+release keystore name: keystore_SimpleMusicPlayer
+alias keystore name: keystore_SimpleMusicPlayer
+password: 123Qwerty
